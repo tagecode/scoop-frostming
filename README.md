@@ -12,7 +12,7 @@ Application list:
 
 
 ---
-### 为什么要 fork `scoop-frostming`这个仓库？
+### 1.为什么要 fork `scoop-frostming` 这个仓库？
 上面的方式是安装最新版本的 PDM
 
 因为一些原因，比如支持 python 3.7
@@ -31,7 +31,7 @@ Application list:
 
 同理，要安装其他版本的 PDM 也是一样的修改，然后重新上传到 GitHub。
 
-### 该怎么使用呢？
+### 2.该怎么使用呢？
 
     scoop bucket add pdm2.17.2 https://github.com/tagecode/scoop-frostming.git
 
