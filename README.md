@@ -42,3 +42,7 @@ pdm2.17.2 这个名字可以自己定义。
 如果已经添加了 frostming 这个 bucket，那么要先删除它，然后再添加 pdm2.17.2 这个 bucket。
 
     scoop bucket rm frostming
+
+    scoop bucket add pdm2.17.2 https://github.com/tagecode/scoop-frostming.git
+
+    scoop install pdm
